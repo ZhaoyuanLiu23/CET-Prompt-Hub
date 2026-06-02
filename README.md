@@ -185,7 +185,7 @@ MIT License © 2026 ZhaoyuanLiu23
 ### 🔗 推荐链接
 
 - [China Daily 双语新闻](https://www.chinadaily.com.cn/) – 积累地道表达，提升语感
-- [B站：某老师六级作文课](https://www.bilibili.com) – 免费视频课程（可替换为真实UP主链接）
+- [Roy大表哥｜六级674分作文模板（12句，万种组合）](https://www.bilibili.com/video/BV1zT411S7uz?vd_source=65fb14ed5b3fb25ead50f26195a57bcd) – 六级674分学长分享的作文模板，12句万能组合，适用于四六级写作。
 
 ### ☁️ 网盘资源
 
