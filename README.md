@@ -169,3 +169,26 @@ MIT License © 2026 ZhaoyuanLiu23
 ## ⭐ 支持
 
 如果这个项目对你有帮助，请点亮右上角的 **Star**，让更多同学看到～
+
+## 📚 资料分享
+
+> 以下资料均为免费或公开资源，仅供个人学习使用。
+
+### 📄 文档类
+
+| 资料名称 | 类型 | 说明 | 获取方式 |
+| :--- | :--- | :--- | :--- |
+| 四级写作万能模板 | PDF | 4种题型框架，可直接套用 | [下载](https://your-link.com) |
+| 六级翻译高频词汇表 | Excel | 分领域（经济、文化、科技）整理 | [下载](https://your-link.com) |
+
+### 🔗 推荐链接
+
+- [China Daily 双语新闻](https://www.chinadaily.com.cn/) – 积累地道表达，提升语感
+- [B站：某老师六级作文课](https://www.bilibili.com) – 免费视频课程（可替换为真实UP主链接）
+
+### ☁️ 网盘资源
+
+- 历年四六级真题（含听力MP3）：[百度网盘](https://pan.baidu.com) 提取码：`cet6`
+- 顾家北《手把手教你雅思写作》（四六级可参考）：[阿里云盘](https://www.aliyundrive.com)
+
+> 如果你有好的资料推荐，欢迎通过 [Issue](https://github.com/ZhaoyuanLiu23/CET-Prompt-Hub/issues) 或 PR 分享给更多人。
