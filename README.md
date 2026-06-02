@@ -146,6 +146,10 @@ MIT License © 2026 ZhaoyuanLiu23
 如果你有更好的四六级提示词或改进建议，欢迎提交 Issue 或 Pull Request。  
 让我们一起帮助更多考生高效备考。
 
+## 📖 使用说明
+
+详细的使用教程、最佳实践和常见问题，请查看 [USAGE.md](USAGE.md)。
+
 ---
 
 ## ⭐ 支持
