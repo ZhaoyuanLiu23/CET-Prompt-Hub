@@ -196,7 +196,11 @@ MIT License © 2026 ZhaoyuanLiu23
 
 ### ☁️ 网盘资源
 
-- 历年四六级真题（含听力MP3）：[百度网盘](https://pan.baidu.com) 提取码：`cet6`
-- 顾家北《手把手教你雅思写作》（四六级可参考）：[阿里云盘](https://www.aliyundrive.com)
+### ☁️ 网盘资源
+
+- 历年四六级真题（含听力MP3）：[百度网盘](https://pan.baidu.com/s/1-IWNYZ5jVNoEekKiuMZMlA?pwd=zhao) 提取码：`zhao`
+- 四六级网课（精品课程）：[百度网盘](https://pan.baidu.com/s/1t3N2AJOIuZ9hQLpHuSJTaw?pwd=V69J) 提取码：`V69J`
+- 顾家北《手把手教你雅思写作》（四六级可参考）：[阿里云盘](https://www.aliyundrive.com)（链接待补充）
+
 
 > 如果你有好的资料推荐，欢迎通过 [Issue](https://github.com/ZhaoyuanLiu23/CET-Prompt-Hub/issues) 或 PR 分享给更多人。
