@@ -15,10 +15,10 @@
 - [📄 许可证](#-许可证)
 - [🤝 贡献](#-贡献)
 - [⭐ 支持](#-支持)
-- <div align="center">
-  <img src="images/01_cet6_essay.png" alt="AI生成六级范文+高级词汇标注+逐句讲解" width="800">
+<div align="center">
+  <img src="images/demo.gif" width="700" alt="操作演示：复制提示词 → 粘贴到AI → 生成高分范文">
   <br>
-  <em>👆 复制提示词 → 粘贴到AI → 一键生成高分范文（含逐句解析）</em>
+  <em>👆 复制提示词 → 粘贴到AI → 一键生成高分范文（含逐句讲解）</em>
 </div>
 
 <br>
