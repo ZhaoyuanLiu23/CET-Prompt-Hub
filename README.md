@@ -15,6 +15,13 @@
 - [📄 许可证](#-许可证)
 - [🤝 贡献](#-贡献)
 - [⭐ 支持](#-支持)
+- <div align="center">
+  <img src="images/01_cet6_essay.png" alt="AI生成六级范文+高级词汇标注+逐句讲解" width="800">
+  <br>
+  <em>👆 复制提示词 → 粘贴到AI → 一键生成高分范文（含逐句解析）</em>
+</div>
+
+<br>
 # CET-Prompt-Hub
 🎓 四六级写作翻译AI提示词 | 适用于DeepSeek、ChatGPT、豆包等 | 含高分范文、高级词汇标注、逐句解析 | 让AI帮你写出阅卷老师喜欢的高分作文
 
