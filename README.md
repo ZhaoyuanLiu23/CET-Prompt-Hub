@@ -189,10 +189,13 @@ MIT License © 2026 ZhaoyuanLiu23
 | 四级写作万能模板 | PDF | 4种题型框架，可直接套用 | [下载](examples/四级写作万能模板.pdf) |
 | 六级翻译高频词汇表 | Excel | 分领域（经济、文化、科技）整理 | [下载](examples/六级翻译高频词汇表.xlsx) |
 
-### 🔗 推荐链接
+### ☁️ 网盘资源
 
-- [China Daily 双语新闻](https://www.chinadaily.com.cn/) – 积累地道表达，提升语感
-- [Roy大表哥｜六级674分作文模板（12句，万种组合）](https://www.bilibili.com/video/BV1zT411S7uz?vd_source=65fb14ed5b3fb25ead50f26195a57bcd) – 六级674分学长分享的作文模板，12句万能组合，适用于四六级写作。
+- 历年四六级真题（含听力MP3）：[百度网盘](https://pan.baidu.com/s/1-IWNYZ5jVNoEekKiuMZMlA?pwd=zhao) 提取码：`zhao`
+- 四六级网课（精品课程）：[百度网盘](https://pan.baidu.com/s/1t3N2AJOIuZ9hQLpHuSJTaw?pwd=V69J) 提取码：`V69J`
+- 刘晓燕四六级急救班：[夸克网盘](https://pan.quark.cn/s/89f5fe862c29)
+
+> 如果你有好的资料推荐，欢迎通过 [Issue](https://github.com/ZhaoyuanLiu23/CET-Prompt-Hub/issues) 或 PR 分享给更多人。
 
 ### ☁️ 网盘资源
 
