@@ -1,6 +1,10 @@
-[![GitHub stars](https://img.shields.io/github/stars/ZhaoyuanLiu23/CET-Prompt-Hub)]()
-[![GitHub forks](https://img.shields.io/github/forks/ZhaoyuanLiu23/CET-Prompt-Hub)]()
-[![GitHub license](https://img.shields.io/github/license/ZhaoyuanLiu23/CET-Prompt-Hub)]()
+<div align="center">
+
+[![GitHub stars](https://img.shields.io/github/stars/ZhaoyuanLiu23/CET-Prompt-Hub?style=flat-square&logo=github&label=Stars)](https://github.com/ZhaoyuanLiu23/CET-Prompt-Hub/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/ZhaoyuanLiu23/CET-Prompt-Hub?style=flat-square&logo=github&label=Forks)](https://github.com/ZhaoyuanLiu23/CET-Prompt-Hub/network/members)
+[![GitHub license](https://img.shields.io/github/license/ZhaoyuanLiu23/CET-Prompt-Hub?style=flat-square&logo=opensourceinitiative&label=License)](https://github.com/ZhaoyuanLiu23/CET-Prompt-Hub/blob/main/LICENSE)
+
+</div>
 # CET-Prompt-Hub
 
 🎓 四六级写作翻译AI提示词 | 适用于DeepSeek、ChatGPT、豆包等 | 含高分范文、高级词汇标注、逐句解析 | 让AI帮你写出阅卷老师喜欢的高分作文
@@ -18,6 +22,7 @@
 - [🚀 快速开始](#-快速开始)
 - [📚 提示词列表](#-提示词列表)
   - [提示词正文（复制即用）](#提示词正文复制即用)
+- [📖 话题范文库](#-话题范文库)
 - [📌 四、六级模板提示词使用建议](#-四六级模板提示词使用建议)
 - [🖼️ 效果展示](#️-效果展示)
 - [🔬 跨模型一致性测试](#-跨模型一致性测试)
