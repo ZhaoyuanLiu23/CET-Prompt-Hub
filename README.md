@@ -1,6 +1,10 @@
-[![GitHub stars](https://img.shields.io/github/stars/ZhaoyuanLiu23/CET-Prompt-Hub)]()
-[![GitHub forks](https://img.shields.io/github/forks/ZhaoyuanLiu23/CET-Prompt-Hub)]()
-[![GitHub license](https://img.shields.io/github/license/ZhaoyuanLiu23/CET-Prompt-Hub)]()
+<div align="center">
+
+[![GitHub stars](https://img.shields.io/github/stars/ZhaoyuanLiu23/CET-Prompt-Hub?style=flat-square&logo=github&label=Stars)](https://github.com/ZhaoyuanLiu23/CET-Prompt-Hub/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/ZhaoyuanLiu23/CET-Prompt-Hub?style=flat-square&logo=github&label=Forks)](https://github.com/ZhaoyuanLiu23/CET-Prompt-Hub/network/members)
+[![GitHub license](https://img.shields.io/github/license/ZhaoyuanLiu23/CET-Prompt-Hub?style=flat-square&logo=opensourceinitiative&label=License)](https://github.com/ZhaoyuanLiu23/CET-Prompt-Hub/blob/main/LICENSE)
+
+</div>
 
 # CET-Prompt-Hub
 
