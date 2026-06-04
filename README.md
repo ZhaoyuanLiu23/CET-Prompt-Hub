@@ -83,6 +83,17 @@
 ```text
 请你作为四级翻译专家，针对以下中文段落，给出高水准的英文翻译，并在每个句子中标注出亮点词汇（超过高中难度）。然后提供整体中文回译，以及逐句翻译思路和语法结构讲解。帮我总结此类主题常用的翻译模板和高级替换词。
 ```
+## 📖 话题范文库
+
+> 每个话题包含 **四级（cet4）** 和 **六级（cet6）** 各三篇 PDF 范文。
+
+| 话题 | 四级范文 | 六级范文 |
+| :--- | :--- | :--- |
+| 坚持与毅力 | [下载](topics/perseverance/cet4.pdf) | [下载](topics/perseverance/cet6.pdf) |
+| 创新与突破 | [下载](topics/innovation/cet4.pdf) | [下载](topics/innovation/cet6.pdf) |
+| 团队合作 | [下载](topics/collaboration/cet4.pdf) | [下载](topics/collaboration/cet6.pdf) |
+| 勇气与担当 | [下载](topics/courage/cet4.pdf) | [下载](topics/courage/cet6.pdf) |
+| 挫折与逆境 | [下载](topics/adversity/cet4.pdf) | [下载](topics/adversity/cet6.pdf) |
 
 ## 📌 四、六级模板提示词使用建议
 
