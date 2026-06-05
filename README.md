@@ -18,6 +18,12 @@
 
 <br>
 
+<div align="center">
+
+[![B站视频教程](https://img.shields.io/badge/B站-视频教程-ff69b4?style=flat-square&logo=bilibili)](https://www.bilibili.com/video/你的BV号)
+
+</div>
+
 ## 📑 目录
 
 - [🚀 快速开始](#-快速开始)
